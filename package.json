@@ -6,6 +6,7 @@
     "build": "webpack --mode=production"
   },
   "dependencies": {
+    "lodash": "^4.17.21",
     "ralix": "^1.1.1"
   },
   "devDependencies": {
